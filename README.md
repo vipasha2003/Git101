@@ -2,7 +2,7 @@
 Learning Git Basics
 
 
-## Introducing Yourself to Git
+## Introducing Yourself to Git Via SSH
 1. [About SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
 2. [Checking for existing SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)
 3. [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)

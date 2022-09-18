@@ -1,0 +1,10 @@
+body {
+    background-color:pink;
+    text-align: center;
+  }
+  h1 {
+    color: red;
+    border-style: solid;
+    border-color: black;
+  }
+  
